@@ -14,5 +14,6 @@ This webpage is the about page for the faction AlphaBandits on LotusHCF.
 
 LotusHCF is a hardcore factions server run by MrLizard (Ethan), and TitanicFreak (Ryan).
 *IP is lotushcf.com*
+
 *LotusHCF website coming soon!
 
